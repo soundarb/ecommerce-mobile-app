@@ -1,2 +1,2 @@
 # mobile-apps
-A repository for my mobile apps development projects
+A repository for mobile apps development projects
