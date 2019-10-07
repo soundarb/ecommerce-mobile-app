@@ -1,2 +1,2 @@
-# mobile-apps
-A repository for mobile apps development projects
+# ecommerce-mobile-app
+A mobile app developed using Flutter framework for ecommerce 
